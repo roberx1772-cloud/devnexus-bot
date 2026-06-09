@@ -1,0 +1,15 @@
+{
+  "name": "devnexus-modular-bot",
+  "version": "1.0.0",
+  "description": "Boilerplate modular con Puppeteer y Event-Emitter para Automatización de Bots (VPS Ready)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.1.0"
+  },
+  "author": "Roberto & DevNexus",
+  "license": "ISC"
+}
